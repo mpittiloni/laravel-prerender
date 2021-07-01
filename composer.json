@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "CodebarAg\\LaravelPrerender\\": "src/"
+            "Dyce\\LaravelPrerender\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "CodebarAg\\LaravelPrerender\\Tests\\": "tests/"
+            "Dyce\\LaravelPrerender\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -46,7 +46,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CodebarAg\\LaravelPrerender\\LaravelPrerenderServiceProvider"
+                "Dyce\\LaravelPrerender\\LaravelPrerenderServiceProvider"
             ]
         }
     },

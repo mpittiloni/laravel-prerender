@@ -1,6 +1,6 @@
 <?php
 
-namespace CodebarAg\LaravelPrerender;
+namespace Dyce\LaravelPrerender;
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Support\ServiceProvider;

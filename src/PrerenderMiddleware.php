@@ -1,6 +1,6 @@
 <?php
 
-namespace CodebarAg\LaravelPrerender;
+namespace Dyce\LaravelPrerender;
 
 use Closure;
 use GuzzleHttp\Client as Guzzle;
@@ -194,7 +194,7 @@ class PrerenderMiddleware
             $headers['X-Prerender-Token'] = $this->prerenderToken;
         }
 
-        $protocol = $request->isSecure() ? 'https' : 'http';
+        $protocol = 'https';
 
         try {
             // Return the Guzzle Response
