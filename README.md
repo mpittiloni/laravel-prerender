@@ -6,7 +6,7 @@
 [![Check & fix styling](https://github.com/dycesystems/laravel-prerender/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/dycesystems/laravel-prerender/actions/workflows/php-cs-fixer.yml)
 
 This package was developed to give you a quick start to integrate with the
-Prerender.io service in your Laravel application.
+Prerender.io service in your Laravel application (HTTPS ONLY).
 
 ## 🙇 Credits
 
@@ -30,6 +30,7 @@ using Prerender.io since the response always goes through your server.
 - PHP: `^7.2`
 - Laravel: `^6`
 - Prerender.io access
+- Secured website with SSL certificate
 
 ## ⚙️ Installation
 
