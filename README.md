@@ -1,9 +1,7 @@
-<img src="https://banners.beyondco.de/Laravel%20Prerender.png?theme=light&packageManager=composer+require&packageName=codebar-ag%2Flaravel-prerender&pattern=circuitBoard&style=style_2&description=Integrate+Prerender.io+with+Laravel&md=1&showWatermark=0&fontSize=175px&images=template&widths=500&heights=500">
+<img src="https://www.dyce.casino/images/laravel-prerender.png">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dyce/laravel-prerender.svg?style=flat-square)](https://packagist.org/packages/dyce/laravel-prerender)
 [![Total Downloads](https://img.shields.io/packagist/dt/dyce/laravel-prerender.svg?style=flat-square)](https://packagist.org/packages/dyce/laravel-prerender)
-[![run-tests](https://github.com/dycesystems/laravel-prerender/actions/workflows/run-tests.yml/badge.svg)](https://github.com/dycesystems/laravel-prerender/actions/workflows/run-tests.yml)
-[![Check & fix styling](https://github.com/dycesystems/laravel-prerender/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/dycesystems/laravel-prerender/actions/workflows/php-cs-fixer.yml)
 
 This package was developed to give you a quick start to integrate with the
 Prerender.io service in your Laravel application (HTTPS ONLY).
