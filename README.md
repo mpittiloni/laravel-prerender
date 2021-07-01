@@ -1,4 +1,4 @@
-<img src="https://www.dyce.casino/images/laravel-prerender.png">
+<img src="https://www.dyce.casino/images/laravel-prerender.png" width="500" alt="Laravel Prerender">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dyce/laravel-prerender.svg?style=flat-square)](https://packagist.org/packages/dyce/laravel-prerender)
 [![Total Downloads](https://img.shields.io/packagist/dt/dyce/laravel-prerender.svg?style=flat-square)](https://packagist.org/packages/dyce/laravel-prerender)
